@@ -1,6 +1,6 @@
 # Leadershipboard
 A sample application written in Kotlin to demonstrate how to load data for RecyclerView only when user stops scrolling and reaches a position
-to iprove performance of the application.
+to improve performance of the application.
 
 App will list 30 users with rank from 1-30. There are mock data available for each page in the assets folder. 
 
